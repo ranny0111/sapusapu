@@ -6,3 +6,4 @@ pip install streamlit folium streamlit-folium pandas
 
 Running by:
 streamlit run app.py
+
